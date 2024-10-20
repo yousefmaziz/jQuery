@@ -1,0 +1,88 @@
+.layerr{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(214, 46, 51, 0.6);
+}
+.singers > p{
+
+    max-width: 700px;
+    margin-bottom: 0px;
+}
+.singers .singer{
+    width: 62.8%;
+    padding: 25px;
+    font-size: 32px;
+}
+
+.section-3{
+    background-image: url(../invitation-2508607__340.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: 100% 100%;
+    height: 350px;
+}
+.time{
+    padding: 50px ;
+    border:1px solid white;
+}
+.my-font{
+    font-size: 14px;
+    font-weight: 200;
+}
+.icons i{
+    border: 1px solid gray;
+    padding: 9px 7px;    
+}
+
+.icons li:hover i{
+    color: white;
+    background-color: rgb(163, 9, 9);
+    transition: all 400ms;
+    border-color: rgb(163, 9, 9);
+}
+.form-control{
+    border-radius:0px ;
+    margin-bottom: 15px;
+}
+textarea{
+    height: 200px;
+    resize: vertical;
+}
+.btnn{
+    background-color: #D62E33;
+    color: #fff;
+    padding: 10px 20px;
+    border-radius: 0;
+    border: 0px;
+    text-transform: uppercase;
+}
+.menu{
+    height:100%;
+    position: fixed;
+    z-index: 111;
+    left: 0px;
+    top: 0px;
+    padding: 25px;
+}
+.select{
+    padding-left: 170px;
+    cursor: pointer;
+}
+.menu a{
+    padding: 25px 50px 10px 10px;
+}
+.menu i{
+    right: 20px;
+    top: 30px;
+    color: white;
+    font-size: 32px;
+}
+.select{
+    left: 5px;
+}
+.details-2,.details-3,.details-4{
+    display: none;
+}
